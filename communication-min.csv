@@ -1,0 +1,161 @@
+treatment_ID,hasCommunicationTreatment,hasCommunicationType,hasCommunicationOccurrence,isRestricted,hasCommunicationContent,isCommunicationOptional,isCommunicationReal,DV,Country,Prop. Male,M_Age,Discipline,Dilemma type(s),Payment (show up fee),Discussion,Simultaneous,Feedback,Deception,Real_Part.,sanction,acquaintance
+ENG00905_1.4.1,1,NaN,Ongoing,0,N/A,0,1,Cooperation,CAN,999,999,999,1,999,0 ; 1,1,0,0,1,0,0
+ENG01868_1.5.1,1,NaN,Ongoing,1,Other,0,0,Cooperation,USA,0.635416667,999,5,1,2,1,1,1,0 ; 1,0 ; 2,0,0
+ENG01868_1.5.2,1,NaN,Ongoing,1,Promise,0,0,Cooperation,USA,0.635416667,999,5,1,2,1,1,1,0 ; 1,0 ; 2,0,0
+ENG01868_1.5.3,1,NaN,Ongoing,1,Threat,0,0,Cooperation,USA,0.635416667,999,5,1,2,1,1,1,0 ; 1,0 ; 2,0,0
+ENG01868_1.5.4,1,NaN,Ongoing,1,Other,0,0,Cooperation,USA,0.635416667,999,5,1,2,1,1,1,0 ; 1,0 ; 2,0,0
+ENG01430_1.2.2,1,Nonverbal,Ongoing,N/A,N/A,0,1,Contribution,USA,0.483,999,4,2,1,0 ; 1,1,2,0,1,0,0
+ENG01430_1.2.3,1,Nonverbal,Ongoing,N/A,N/A,0,1,Contribution,USA,0.483,999,4,2,1,0 ; 1,1,2,0,1,0,0
+ENG01430_1.2.4,1,Nonverbal,Ongoing,N/A,N/A,0,1,Contribution,USA,0.483,999,4,2,1,0 ; 1,1,2,0,1,0,0
+ENG01810_1.1.1,1,Nonverbal,Ongoing,N/A,N/A,N/A,1,Cooperation,USA,1,999,2,1,0,0,1,1,0,1,0,0
+ENG01811_1.2.1,1,Nonverbal,Ongoing,N/A,N/A,N/A,1,Cooperation,USA,1,999,2,1,999,0,1,1,1,2,0,0
+ENG02547_1.1.2,1,Nonverbal,Ongoing,0,N/A,0,1,Cooperation,USA,0,999,4,1,0,0 ; 1,1,1,0,1,0,0
+ENG02547_1.1.3,1,Nonverbal,Ongoing,0,N/A,0,1,Cooperation,USA,0,999,4,1,0,0 ; 1,1,1,0,1,0,0
+ENG02547_1.1.4,1,Nonverbal,Ongoing,0,N/A,0,1,Cooperation,USA,0,999,4,1,0,0 ; 1,1,1,0,1,0,0
+ENG02554_1.3.2,1,Nonverbal,Ongoing,0,N/A,0,0,Cooperation,USA,0.5,999,2,1,999,0 ; 1,1,0,0,1,0,0
+ENG00234_1.1.2,1,Verbal,One-shot,0,N/A,1,1,Cooperation,USA,1,999,2,1,999,0 ; 1,1,0 ; 1,0,1,0,0
+ENG00250_1.3.3,1,Verbal,Ongoing,0,N/A,0,1,Contribution,USA,999,999,999,2,1,0 ; 1,1,1,0,1,0; 1,0
+ENG00250_1.3.4,1,Verbal,Ongoing,0,N/A,0,1,Contribution,USA,999,999,999,2,1,0 ; 1,1,1,0,1,0; 1,0
+ENG00478_1.2.4,1,Verbal,One-shot,0,N/A,0,1,Contribution,USA,0.4688,999,2,2,2,0 ; 1 ; 2,1,1,0,1,0,0
+ENG00619_1.1.2,1,Verbal,One-shot,1,Irrelevant,0,1,Cooperation,USA,999,999,N/A,1,0 ; 1,0 ; 1,1,0,0,1,0,1
+ENG00619_1.1.3,1,Verbal,One-shot,0,N/A,0,1,Cooperation,USA,999,999,N/A,1,0 ; 1,0 ; 1,1,0,0,1,0,1
+ENG00619_1.1.4,1,Verbal,One-shot,1,Promise,0,1,Cooperation,USA,999,999,N/A,1,0 ; 1,0 ; 1,1,0,0,1,0,1
+ENG00619_2.1.1,1,Verbal,One-shot,1,Irrelevant,0,1,Cooperation,USA,999,999,N/A,1,0 ; 1,1,1,0,0,1,0,0
+ENG00619_2.1.2,1,Verbal,One-shot,1,Promise,0,1,Cooperation,USA,999,999,N/A,1,0 ; 1,1,1,0,0,1,0,0
+ENG00621_2.1.1,1,Verbal,One-shot,0,N/A,0,1,Cooperation,USA,999,999,N/A,1,999,0 ; 1,1,0,0,1,0,0
+ENG00621_2.2.1,1,Verbal,One-shot,0,N/A,0,1,Cooperation,USA,999,999,N/A,1,999,0 ; 1,1,0,0,1,0,0
+ENG00893_2.1.1,1,Verbal,Ongoing,0,Promise,0,1,Cooperation,USA,999,999,1 ; 5,1,999,1,1,0,0,1,0,0
+ENG00893_2.1.2,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,USA,999,999,1 ; 5,1,999,1,1,0,0,1,0,0
+ENG00905_1.2.1,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,CAN,999,999,999,1,999,0 ; 1,1,0,0,1,0,0
+ENG00905_1.3.1,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,CAN,999,999,999,1,999,0 ; 1,1,0,0,1,0,0
+ENG00905_1.5.2,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,CAN,999,999,999,1,999,0 ; 1,1,0,0,1,0,0
+ENG00905_1.6.2,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,CAN,999,999,999,1,999,0 ; 1,1,0,0,1,0,0
+ENG01120_1.14.1,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,NLD,0.54,22.22,N/A,1,1,1,1,1,0,1,0,0
+ENG01120_1.14.2,1,Verbal,Ongoing,0,Promise,0,1,Cooperation,NLD,0.54,22.22,N/A,1,1,1,1,1,0,1,0,0
+ENG01120_1.14.3,1,Verbal,Ongoing,0,Promise,0,1,Cooperation,NLD,0.54,22.22,N/A,1,1,1,1,1,0,1,0,0
+ENG01120_1.5.3,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,NLD,0.54,22.22,N/A,1,1,1,1,1,0,1,0,0
+ENG01120_1.5.4,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,NLD,0.54,22.22,N/A,1,1,1,1,1,0,1,0,0
+ENG01155_1.2.1,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,GBR,999,999,2,1,2,1,1,0,0,1,0,0
+ENG01156_1.2.1,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,GBR,999,999,2,1,3,1,1,0,0,1,0,0
+ENG01165_1.1.2,1,Verbal,One-shot,0,N/A,1,1,Cooperation,USA,0.5,999,2,1,2,0 ; 1,1,1,0,1,0,0
+ENG01165_1.1.3,1,Verbal,One-shot,0,N/A,1,1,Cooperation,USA,0.5,999,2,1,2,0 ; 1,1,1,0,1,0,0
+ENG01178_1.4.1,1,Verbal,One-shot,0,Irrelevant,0,1,Cooperation,TWN,0.537,999,4,1,999,0 ; 1,1,0,0,1,0,0
+ENG01178_1.4.2,1,Verbal,One-shot,0,Promise,0,1,Cooperation,TWN,0.537,999,4,1,999,0 ; 1,1,0,0,1,0,0
+ENG01178_1.4.3,1,Verbal,One-shot,0,Promise,0,1,Cooperation,TWN,0.537,999,4,1,999,0 ; 1,1,0,0,1,0,0
+ENG01184_1.1.3,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,USA,0.486842105,999,2,1,999,0 ; 1,1,0,0,1,0,0
+ENG01184_1.1.4,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,USA,0.486842105,999,2,1,999,0 ; 1,1,0,0,1,0,0
+ENG01192_1.1.1,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,USA,0,999,2,1,2,1,1,0,1,2,0,0
+ENG01192_1.1.2,1,Verbal,Ongoing,0,N/A,0,0,Cooperation,USA,0,999,2,1,2,1,1,0,1,2,0,0
+ENG01223_1.1.2,1,Verbal,Ongoing,0,N/A,1,1,Cooperation,USA,0.649,999,4,1,999,0 ; 1,1,1,0,1,0,0
+ENG01234_1.1.4,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,USA,999,999,999,1,999,0 ; 1,1,1,0,1,0,0
+ENG01236_1.1.2,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,USA,999,999,5,1,999,0 ; 1,1,0,0,1,0,0
+ENG01236_2.1.1,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,USA,999,999,5,1,999,0 ; 1,1,1,1,2,0,0
+ENG01236_2.1.2,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,USA,999,999,5,1,999,0 ; 1,1,1,1,2,0,0
+ENG01430_1.2.5,1,Verbal,Ongoing,0,N/A,0,1,Contribution,USA,0.483,999,4,2,1,0 ; 1,1,2,0,1,0,0
+ENG01582_1.1.2,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,USA,0.5,999,4,1 ; 4,999,0 ; 1,1,1,0,1,N/A,N/A
+ENG01582_1.2.2,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,USA,0.5,999,4,1 ; 4,999,0 ; 1,1,1,0,1,N/A,N/A
+ENG01661_1.1.2,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,GBR,0.25,19.91,2,1,999,0 ; 1,1,0,0,1,0,0
+ENG01661_1.1.3,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,GBR,0.25,19.91,2,1,999,0 ; 1,1,0,0,1,0,0
+ENG01680_1a.1.1,1,Verbal,Ongoing,0,N/A,0,1,Contribution,USA,0.5,999,N/A,2,999,0 ; 1,1,0,0,1,0,0
+ENG01680_1a.1.2,0,Verbal,Ongoing,0,N/A,0,1,Contribution,USA,0.5,999,N/A,2,999,0 ; 1,1,0,0,1,0,0
+ENG01746_1.1.2,1,Verbal,One-shot,0,Irrelevant,0,1,Cooperation,GBR,999,999,999,1,1,0,1,0,0,1,0,0
+ENG01746_1.1.3,1,Verbal,One-shot,0,Irrelevant,0,1,Cooperation,GBR,999,999,999,1,1,0,1,0,0,1,0,0
+ENG01833_1a.1.1,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,USA,999,999,999,1,999,0 ; 1,1,1,0,1,0,0
+ENG01833_1b.1.1,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,USA,999,999,999,4,999,0 ; 1,1,1,0,1,N/A,N/A
+ENG02009_1.12.1,1,Verbal,Ongoing,0,Promise,1,1,Cooperation,USA,0,19.12,999,1,0,1,1,0,0,1,0,0
+ENG02009_1.12.2,1,Verbal,Ongoing,0,N/A,1,1,Cooperation,USA,0,19.12,999,1,0,1,1,0,0,1,0,0
+ENG02135_2.2.1,1,Verbal,One-shot,1,Request,0,0,Cooperation,USA,0.5,999,2,1,2,1,1,1,1,2,0,0
+ENG02135_2.2.2,1,Verbal,One-shot,1,Request,0,0,Cooperation,USA,0.5,999,2,1,2,1,1,1,1,2,0,0
+ENG02135_3.1.1,1,Verbal,One-shot,1,Request,0,0,Cooperation,USA,0,999,2,1,2,1,1,1,1,2,0,0
+ENG02135_3.1.2,1,Verbal,One-shot,1,Request,0,0,Cooperation,USA,0,999,2,1,2,1,1,1,1,2,0,0
+ENG02142_1a.1.2,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,USA,999,999,999,1,1,0 ; 1,1,0,0,1,0,0
+ENG02277_1.1.1,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,USA,0.5,999,999,1,2,0 ; 1,1,0,0,1,0,0
+ENG02277_1.1.2,1,Verbal,Ongoing,0,N/A,0,1,Cooperation,USA,0.5,999,999,1,2,0 ; 1,1,0,0,1,0,0
+ENG02554_1.4.2,1,Verbal,Ongoing,0,N/A,0,0,Cooperation,USA,0.5,999,2,1,999,0 ; 1,1,0,0,1,0,0
+ENG00073_1.1.2,1,Written,Ongoing,1,Promise,0,1,Cooperation,USA,999,999,999,1,1,0,1,1,0,1,0,0
+ENG00158_1.1.1,1,Written,One-shot,0,Irrelevant,0,0,Cooperation,USA,0,999,2,1,2,0,2,0,1,2,0,0
+ENG00158_1.1.2,1,Written,One-shot,0,Irrelevant,0,0,Cooperation,USA,0,999,2,1,2,0,2,0,1,2,0,0
+ENG00159_1.1.1,1,Written,One-shot,0,Irrelevant,0,0,Cooperation,USA,0,999,2,1,2,0,1,0,1,2,0,0
+ENG00159_1.1.2,1,Written,One-shot,0,Irrelevant,0,0,Cooperation,USA,0,999,2,1,2,0,1,0,1,2,0,0
+ENG00249_1.1.2,1,Written,Ongoing,1,Promise,0,1,Contribution,USA,999,999,999,1,1,0 ; 1,1,1,0,1,0,0
+ENG00249_1.1.3,1,Written,Ongoing,1,Promise,0,,Contribution,USA,999,999,999,1,1,0 ; 1,1,1,0,1,0,0
+ENG00249_1.1.5,1,Written,Ongoing,1,Promise,0,,Contribution,USA,999,999,999,1,1,0 ; 1,1,1,0,1,0,0
+ENG00249_1.1.6,1,Written,Ongoing,1,Promise,0,,Contribution,USA,999,999,999,1,1,0 ; 1,1,1,0,1,0,0
+ENG00250_1.3.5,1,Written,Ongoing,0,N/A,0,1,Contribution,USA,999,999,999,2,1,0 ; 1,1,1,0,1,0; 1,0
+ENG00250_1.3.6,1,Written,Ongoing,0,N/A,0,1,Contribution,USA,999,999,999,2,1,0 ; 1,1,1,0,1,0; 1,0
+ENG00250_1.3.7,1,Written,Ongoing,1,Promise,0,1,Contribution,USA,999,999,999,2,1,0 ; 1,1,1,0,1,0; 1,0
+ENG00250_1.3.8,1,Written,Ongoing,1,Promise,0,1,Contribution,USA,999,999,999,2,1,0 ; 1,1,1,0,1,0; 1,0
+ENG00478_1.2.1,1,Written,Ongoing,1,Promise,0,1,Contribution,USA,0.4688,999,2,2,2,0 ; 1 ; 2,1,1,0,1,0,0
+ENG00478_1.2.2,1,Written,Ongoing,1,Promise,0,1,Contribution,USA,0.4688,999,2,2,2,0 ; 1 ; 2,1,1,0,1,0,0
+ENG00478_1.2.3,1,Written,Ongoing,1,Promise,0,1,Contribution,USA,0.4688,999,2,2,2,0 ; 1 ; 2,1,1,0,1,0,0
+ENG00480_1.1.1,1,Written,Ongoing,1,Promise,0,1,Contribution,USA,0.433333333,999,2,2,999,0,1,1 ; 2,0,1,0,0
+ENG00480_1.1.2,1,Written,Ongoing,1,Promise,0,1,Contribution,USA,0.433333333,999,2,2,999,0,1,1 ; 2,0,1,0,0
+ENG00480_2.1.1,1,Written,Ongoing,1,Promise,0,1,Contribution,USA,0.4,999,2,2,999,0,1,1 ; 2,0,1,0,0
+ENG00480_2.1.2,1,Written,Ongoing,1,Promise,0,1,Contribution,USA,0.4,999,2,2,999,0,1,1 ; 2,0,1,0,0
+ENG00480_2.1.3,1,Written,Ongoing,1,Promise,0,1,Contribution,USA,0.4,999,2,2,999,0,1,1 ; 2,0,1,0,0
+ENG00562_1.1.1,1,Written,One-shot,1,Other,0,0,Contribution,USA,0.368888889,999,2,1,2,0 ; 2,1,1,1,2,0,0
+ENG00562_1.1.3,1,Written,One-shot,1,Other,0,0,Contribution,USA,0.368888889,999,2,1,2,0 ; 2,1,1,1,2,0,0
+ENG00693_1.1.1,1,Written,Ongoing,0,N/A,0,1,Cooperation,USA,999,999,999,1,999,0 ; 2,1 ; 2,999,0,1,0,0
+ENG00694_1.2.2,1,Written,Ongoing,0,N/A,0,1,Cooperation,USA,999,999,999,1,999,0 ; 1,0 ; 1,1,0,1,0,0
+ENG00905_1.2.2,1,Written,Ongoing,0,N/A,0,1,Cooperation,CAN,999,999,999,1,999,0 ; 1,1,0,0,1,0,0
+ENG00905_1.3.2,1,Written,Ongoing,0,N/A,0,1,Cooperation,CAN,999,999,999,1,999,0 ; 1,1,0,0,1,0,0
+ENG00905_1.5.1,1,Written,Ongoing,0,N/A,0,1,Cooperation,CAN,999,999,999,1,999,0 ; 1,1,0,0,1,0,0
+ENG00905_1.6.1,1,Written,Ongoing,0,N/A,0,1,Cooperation,CAN,999,999,999,1,999,0 ; 1,1,0,0,1,0,0
+ENG01110_1.2.1,1,Written,Ongoing,0,N/A,1,1,Contribution,USA,0.670731707,999,999,2,1,0 ; 1,1,1,0,1,0,0
+ENG01110_2.1.1,1,Written,Ongoing,0,N/A,1,1,Contribution,USA,999,999,999,2,1,0 ; 1,1,0 ; 1,0,1,0,0
+ENG01141_1.1.2,1,Written,Ongoing,0,N/A,0,1,Contribution,USA,999,999,999,2,1,2,1,2,0,1,0,0
+ENG01141_1.1.4,1,Written,Ongoing,0,N/A,0,1,Contribution,USA,999,999,999,2,1,2,1,2,0,1,0,0
+ENG01234_1.1.2,1,Written,Ongoing,0,N/A,0,1,Cooperation,USA,999,999,999,1,999,0 ; 1,1,1,0,1,0,0
+ENG01234_1.1.3,1,Written,Ongoing,0,N/A,0,1,Cooperation,USA,999,999,999,1,999,0 ; 1,1,1,0,1,0,0
+ENG01472_1.1.1,1,Written,Ongoing,1,Request,0,1,Contribution,USA,999,999,999,2,1,0,1,1,0,1,0,0
+ENG01472_1.1.2,1,Written,Ongoing,1,Request,0,1,Contribution,USA,999,999,999,2,1,0,1,1,0,1,0,0
+ENG01472_1.1.3,1,Written,Ongoing,1,Request,0,1,Contribution,USA,999,999,999,2,1,0,1,1,0,1,0,0
+ENG01472_1.2.1,1,Written,Ongoing,1,Request,0,1,Contribution,USA,999,999,999,2,1,0,1,1,0,1,0,0
+ENG01472_1.2.2,1,Written,Ongoing,1,Request,0,1,Contribution,USA,999,999,999,2,1,0,1,1,0,1,0,0
+ENG01472_1.2.3,1,Written,Ongoing,1,Request,0,1,Contribution,USA,999,999,999,2,1,0,1,1,0,1,0,0
+ENG01494_1.2.1,1,Written,Ongoing,1,Promise,0,0,Cooperation,USA,1,999,2,1,999,0 ; 2,1,1,1,2,0,0
+ENG01494_1.2.2,1,Written,Ongoing,1,Promise,0,0,Cooperation,USA,1,999,2,1,999,0 ; 2,1,1,1,2,0,0
+ENG01499_1.2.1,1,Written,Ongoing,1,Promise,0,0,Cooperation,USA,0.5,999,2,1,2,0 ; 2,1,1,1,2,0,0
+ENG01499_1.3.1,1,Written,Ongoing,1,Promise,0,0,Cooperation,USA,0.5,999,2,1,2,0 ; 2,1,1,1,2,0,0
+ENG01499_1.4.1,1,Written,Ongoing,1,Promise,0,0,Cooperation,USA,0.5,999,2,1,2,0 ; 2,1,1,1,2,0,0
+ENG01503_1.2.1,1,Written,Ongoing,1,Promise,0,0,Cooperation,USA,0.5,999,2,1,2,0 ; 2,1,1,1,2,0,0
+ENG01503_1.2.2,1,Written,Ongoing,1,Promise,0,0,Cooperation,USA,0.5,999,2,1,2,0 ; 2,1,1,1,2,0,0
+ENG01503_1.2.3,1,Written,Ongoing,1,Threat,0,0,Cooperation,USA,0.5,999,2,1,2,0 ; 2,1,1,1,2,0,0
+ENG01503_2.2.1,1,Written,Ongoing,1,Promise,0,0,Cooperation,USA,999,999,999,1,999,2,1,1,1,2,0,0
+ENG01503_2.2.2,1,Written,Ongoing,1,Promise,0,0,Cooperation,USA,999,999,999,1,999,2,1,1,1,2,0,0
+ENG01503_2.3.1,1,Written,Ongoing,1,Promise,0,0,Cooperation,USA,999,999,999,1,999,2,1,1,1,2,0,0
+ENG01503_2.3.2,1,Written,Ongoing,1,Promise,0,0,Cooperation,USA,999,999,999,1,999,2,1,1,1,2,0,0
+ENG01503_2.4.1,1,Written,Ongoing,1,Promise,0,0,Cooperation,USA,999,999,999,1,999,2,1,1,1,2,0,0
+ENG01503_2.4.2,1,Written,Ongoing,1,Promise,0,0,Cooperation,USA,999,999,999,1,999,2,1,1,1,2,0,0
+ENG01503_2.4.3,1,Written,Ongoing,1,Threat,0,0,Cooperation,USA,999,999,999,1,999,2,1,1,1,2,0,0
+ENG01504_1.1.1,1,Written,missing,1,Promise,0,0,Cooperation,USA,0,999,2,1,2,2,1,1,1,2,0,0
+ENG01504_2.1.1,1,Written,missing,1,Other,0,0,Cooperation,USA,0,999,999,1,2,2,1,1,1,2,0,0
+ENG01504_2.1.2,1,Written,missing,1,Promise,0,0,Cooperation,USA,0,999,999,1,2,2,1,1,1,2,0,0
+ENG01506_1.1.1,1,Written,Ongoing,1,Promise,0,0,Cooperation,USA,0,999,999,1,2,1 ; 2,1,1,1,2,0,0
+ENG01506_1.1.2,1,Written,Ongoing,1,Promise,0,0,Cooperation,USA,0,999,999,1,2,1 ; 2,1,1,1,2,0,0
+ENG01508_1.2.2,1,Written,Ongoing,1,Promise,0,0,Cooperation,USA,0.5,999,2,1,2,0 ; 2,1,999,1,0,0,0
+ENG01508_1.2.3,1,Written,Ongoing,1,Promise,0,0,Cooperation,USA,0.5,999,2,1,2,0 ; 2,1,999,1,0,0,0
+ENG01814_1.1.2,1,Written,Ongoing,1,Promise,1,0,Cooperation,USA,999,999,999,1,1,0 ; 1,1,1,1,2,0,0
+ENG01829_1.1.1,1,Written,Ongoing,0,N/A,1,1,Contribution,USA,999,999,4,2,1,0 ; 1,1 ; 2,1,0,1,0,0
+ENG01863_1.1.2,1,Written,Ongoing,1,Promise,0,1,Contribution,USA,999,999,N/A,2,1,0 ; 1,1,1,0,1,N/A,N/A
+ENG01863_1.1.3,1,Written,Ongoing,1,Promise,1,1,Contribution,USA,999,999,N/A,2,1,0 ; 1,1,1,0,1,N/A,N/A
+ENG01863_1.1.4,1,Written,Ongoing,0,Promise,1,1,Contribution,USA,999,999,N/A,2,1,0 ; 1,1,1,0,1,N/A,N/A
+ENG01877_1.3.1,1,Written,One-shot,1,Promise,0,0,Cooperation,USA,999,999,2,1,999,1,1,1,1,2,0,0
+ENG01877_1.3.2,1,Written,One-shot,1,Promise,0,0,Cooperation,USA,999,999,2,1,999,1,1,1,1,2,0,0
+ENG01877_1.3.3,1,Written,One-shot,1,Irrelevant,0,0,Cooperation,USA,999,999,2,1,999,1,1,1,1,2,0,0
+ENG01877_2.3.1,1,Written,One-shot,1,Promise,0,0,Cooperation,USA,999,999,2,1,999,1,1,1,1,2,0,0
+ENG01877_2.3.2,1,Written,One-shot,1,Promise,0,0,Cooperation,USA,999,999,2,1,999,1,1,1,1,2,0,0
+ENG01926_1.1.3,1,Written,Ongoing,1,Promise,0,1,Contribution,DEU,0.458,26,4,2,999,0,0 ; 1,1 ; 2,0,1,0,0
+ENG01926_1.2.2,1,Written,Ongoing,1,Promise,0,1,Contribution,DEU,0.458,26,4,2,999,0,0 ; 1,1 ; 2,0,1,0,0
+ENG01926_1.3.2,1,Written,Ongoing,1,Promise,0,1,Contribution,DEU,0.458,26,4,2,999,0,0 ; 1,1 ; 2,0,1,0,0
+ENG02331_1.1.2,1,Written,Ongoing,1,NaN,0,1,Cooperation,USA,0,999,2,1,0,0 ; 1 ; 2,1,0,0,1,0,0
+ENG02331_1.1.3,1,Written,Ongoing,1,NaN,0,1,Cooperation,USA,0,999,2,1,0,0 ; 1 ; 2,1,0,0,1,0,0
+ENG02331_1.1.4,1,Written,Ongoing,1,NaN,0,1,Cooperation,USA,0,999,2,1,0,0 ; 1 ; 2,1,0,0,1,0,0
+ENG02331_1.1.5,1,Written,Ongoing,1,Other,0,1,Cooperation,USA,0,999,2,1,0,0 ; 1 ; 2,1,0,0,1,0,0
+ENG02331_1.1.6,1,Written,Ongoing,1,Request,0,1,Cooperation,USA,0,999,2,1,0,0 ; 1 ; 2,1,0,0,1,0,0
+ENG02383_1.1.2,1,Written,Ongoing,0,N/A,0,1,Cooperation,USA,1,999,999,1,1,0 ; 1,1,0 ; 1,0,1,0,0
+ENG02383_1.2.2,1,Written,Ongoing,0,N/A,0,1,Cooperation,USA,1,999,999,1,1,0 ; 1,1,0 ; 1,0,1,0,0
+ENG02503_1.1.2,1,Written,One-shot,1,NaN,0,1,Cooperation,USA,0.5,999,999,1,999,0 ; 1,1,1,0,1,0,0
+ENG02503_1.1.3,1,Written,Ongoing,1,NaN,0,1,Cooperation,USA,0.5,999,999,1,999,0 ; 1,1,1,0,1,0,0
+ENG02503_1.1.4,1,Written,Ongoing,1,NaN,0,1,Cooperation,USA,0.5,999,999,1,999,0 ; 1,1,1,0,1,0,0
+ENG02570_1.1.2,1,Written,Ongoing,1,Promise,0,1,Contribution,USA,999,999,999,2,999,0 ; 1,1,0 ; 1,0,1,0,0
